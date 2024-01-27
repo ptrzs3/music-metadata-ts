@@ -25,7 +25,7 @@ const id3v24TagMap: INativeTagMap = {
   TCON: 'genre',
   APIC: 'picture',
   TCOM: 'composer',
-  'USLT:description': 'lyrics',
+  USLT: 'lyrics',
   TSOA: 'albumsort',
   TSOT: 'titlesort',
   TOAL: 'originalalbum',
